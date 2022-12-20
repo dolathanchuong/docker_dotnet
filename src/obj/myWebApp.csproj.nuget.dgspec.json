@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj": {
+    "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

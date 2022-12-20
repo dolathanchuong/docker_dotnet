@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ED++mLZNpynOcLltP1Q4HV7h2qR8PzsdiOjHi6Cm89qBUa6ylNB9XfNtQxScdPLo4JGExflQzHo6hN6Pa7GLig==",
+  "dgSpecHash": "28+FcpQcOVMcD0vh5HaIQc2EccEoA/pSDjPpTV6LiJOGxv0Wk5mvi5d4aM+H+6IFeKIPhUIFbYvhsZHlg17Eqw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\dock\\docker_dotnet\\src\\myWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
