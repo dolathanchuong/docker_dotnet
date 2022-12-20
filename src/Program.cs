@@ -31,7 +31,7 @@ using (var scope = app.Services.CreateScope())
 
 
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsProduction())
+if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
 }
