@@ -14,14 +14,14 @@
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5089",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development-DockerCompose"
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development-DockerCompose"
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     }
   }
