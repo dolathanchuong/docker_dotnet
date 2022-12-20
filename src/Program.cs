@@ -17,7 +17,7 @@ using (var scope = app.Services.CreateScope())
    {
        // add 10 seconds delay to ensure the db server is up to accept connections
        // this won't be needed in real world application
-       System.Threading.Thread.Sleep(10000);
+       System.Threading.Thread.Sleep(9000);
        var context = services.GetRequiredService<SchoolContext>();
        var created = context.Database.EnsureCreated();
 
